@@ -9,7 +9,7 @@
 @prefix app1:       <http://app4traffic.de/connector/appstore1/app1/> .
 @prefix part1:      <https://im.internationaldataspaces.org/participant/part1> .
 
-app1:
+app1: 
     a ids:Resource, ids:SystemAdapter ;
     ids:title "Camera driver"@en ;
     ids:uid "camera_adapter:latest";
